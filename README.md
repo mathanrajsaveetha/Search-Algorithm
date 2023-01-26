@@ -108,6 +108,8 @@ else:
 
 ```
 ## Sample Input and Output
+
+
 output
 for program 1
 ![Screenshot_20230126_091233](https://user-images.githubusercontent.com/119560501/214881242-12f8c4b2-fba2-4d68-88b2-a942317269c2.png)
