@@ -108,10 +108,13 @@ else:
 
 ```
 ## Sample Input and Output
-##output
-
-
-
+output
+for program 1
+![Screenshot_20230126_091233](https://user-images.githubusercontent.com/119560501/214881242-12f8c4b2-fba2-4d68-88b2-a942317269c2.png)
+for program 2
+![Screenshot_20230126_091250](https://user-images.githubusercontent.com/119560501/214881811-a9856026-36d0-42d7-a499-0fb5592a4b37.png)
+for program 2
+![Screenshot_20230126_091302](https://user-images.githubusercontent.com/119560501/214882073-620ac782-aed2-43ac-90db-8ea80f0c323e.png)
 
 
 ## Result
